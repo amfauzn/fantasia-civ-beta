@@ -1,0 +1,116 @@
+[
+	// The Witcher from Belias
+	// modified
+	{
+		"name": "The Order of Witchers",
+		"leaderName": "Cosimo Malaspina",
+		"adjective": ["Witchers"],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Evolutionism",
+		
+		"startIntroPart1": "Placeholder",
+		"startIntroPart2": "Placeholder",
+		
+		"declaringWar": "I run into dilemmas all the time... This is not one of them. You disgust me. And deserve to die.",
+		"attacked": "Why men throw their lives away attacking an armed witcher...I'll never know. Something about our faces?",
+		"defeated": "Even if the world lies in ruin which does not seem likely to me. We will carry on killing monsters in the ruins of this world until some monster kills us.",
+		"afterPeace": "Evil is evil. Lesser, greater, middling... Makes no difference. The degree is arbitrary. The definition's blurred. If I'm to choose between one evil and another... I'd rather not choose at all.",
+		"introduction": "Well met, perhaps you require the services of a witcher?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "Damn, You're Ugly.",
+		"tradeRequest": "I think this is a fair price.",
+		
+		"outerColor": [221,226,223],
+		"innerColor": [214,195, 75],
+		"uniqueName": "The Path",
+		"uniqueText": "Notified of new Dungeon \n+25% Strength and +50% XP gained vs Beast units \nEarn 25% of killed Military unit's Cost as [Gold] \nResting point for Influence with City-States is increased by 10 \n+50% City-State Influence degradation before discovering [Acoustics]",
+		"uniques": ["Notified of new Barbarian encampments", 
+					"[+25]% Strength <vs [Beast] units>",
+					"[+50]% XP gained from combat <for [Military] units> <vs [Beast] units>", 
+					"Earn [25]% of killed [Military] unit's [Cost] as [Gold]",
+					"Resting point for Influence with City-States is increased by [10]", 
+					"[+50]% City-State Influence degradation <before discovering [Acoustics]>"], 
+		"cities": ["Morgraig","Kaer Morhen","Stygga Citadel","Haern Caduch","Gorthur Gvaed","Kaer Seren","Bialsuf Alsarea","Behelt Nar","Dyn Marv"],
+		"spyNames": ["Letto","Serrit","Auckes","Ivar"],
+	},
+	
+	// Holy Order from Tenason
+	// modified
+	{
+		"name": "Holy Order",
+		"leaderName": "Mattimeo",
+		"adjective": ["Holiini"],
+		//"startBias": ["Hills"],
+		"preferredVictoryType": "Diplomatic",
+		//"favoredReligion": "Evolutionism",
+		
+		"startIntroPart1": "Placeholder",
+		"startIntroPart2": "Placeholder",
+		
+		//"declaringWar": "I run into dilemmas all the time... This is not one of them. You disgust me. And deserve to die.",
+		//"attacked": "Why men throw their lives away attacking an armed witcher...I'll never know. Something about our faces?",
+		//"defeated": "Even if the world lies in ruin which does not seem likely to me. We will carry on killing monsters in the ruins of this world until some monster kills us.",
+		//"afterPeace": "Evil is evil. Lesser, greater, middling... Makes no difference. The degree is arbitrary. The definition's blurred. If I'm to choose between one evil and another... I'd rather not choose at all.",
+		//"introduction": "Well met, perhaps you require the services of a witcher?",
+		
+		//"neutralHello": "Greetings.",
+		//"hateHello": "Damn, You're Ugly.",
+		//"tradeRequest": "I think this is a fair price.",
+		
+		"outerColor": [ 74, 64, 58],
+		"innerColor": [255,192,105],
+		"uniqueName": "Empirical Holy Order",
+		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your ally for 5 turns. \n+1 [Gold] per 4 population when not at war, +1 [Production] instead when at war \n+2 [Gold] from all [Faith] buildings \nNewly-trained Crusader units in capital may Spread Religion 2 times",
+		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", 
+					"[+1 Gold] per [4] population [in all cities] <when not at war>", 
+					"[+1 Production] per [4] population [in all cities] <when at war>", 
+					"[+2 Gold] from all [Faith] buildings", 
+					//"[+33]% Strength <vs [Major] units> <with different religion>", 
+					"Gain a free [Sanctum] [in capital]"], 
+		"cities": ["Morgraig","Kaer Morhen","Stygga Citadel","Haern Caduch","Gorthur Gvaed","Kaer Seren","Bialsuf Alsarea","Behelt Nar","Dyn Marv"],
+		"spyNames": ["Letto","Serrit","Auckes","Ivar"],
+	},
+	
+	// To Create uniques
+	{
+		"name": "Erhab",
+		"leaderName": "Magnar",
+		"adjective": ["Giants"],
+		"preferredVictoryType": "Diplomatic",
+		"favoredReligion": "Butterfly Effects",
+		
+		"startIntroPart1": "Giants are a non-human race that comes from the Nusa Islands. The first giant civilization was founded by Magnar, who united the giant groups Förstarna and Andarna on the Horn of Laurasia. In the Battle of Karl Doral, the giants almost vanquished Dwargon before Higba decided to ride his rudimentary Orichalcum Golem. Acknowledging his opponent's power, Magnar decided to stop the attacks, and later helped Dwargon's defenses after Almira gave Magnar the Heart of Perpetuity as a condition of the 500 Years of Peace treaty.",
+		"startIntroPart2": "Honor and glory be yours, Og Magnar, founder of the Erhab Tribe and his strongest and most tactful Og . It was because your greatness that giant race united and emerged as the greatest powers in the world. Mighty Og, Will you accept the challange to lead your people to renewed power and triumph? Can you build a civilization that stands the test of time?",
+		
+		"declaringWar": "The God will decides who is right between us... and lets him live.",
+		"attacked": "Ahahah! You seem to show some skills of a true warrior! Too bad that I'll probably kill you!",
+		"defeated": "The gods have deprived Erhab of their favour. We have been defeated.",
+		"afterPeace": "Good fight, fellow warrior.",
+		"introduction": "Magnar bids you welcome to his lands! Hah, are you afraid?",
+		
+		"neutralHello": "Hail to you.",
+		"hateHello": "What an insignificant ant.",
+		"tradeRequest": "This is a fine deal! Even a drunk beggar would agree!",
+		
+		"outerColor": [ 40, 19, 2],
+		"innerColor": [229,179,57],
+		"uniqueName": "Mercenary Combatant",
+		"uniques": ["[+10]% Strength <for [{Melee} {Land}] units>", 
+					"No movement cost to pillage <for [Land] units>", 
+					"[+20]% Strength for cities <when defending>", 
+					"Gain [10] Influence with a [Military] gift to a City-State"],
+		"cities": ["Og","Fomoran","Fachan","Fódla","Ravna","Angrboða","Farragus","Kapra","Khalefi","Odánu",
+			"Ogeass","‘Uj Anaq","Bomba","Kuafu","Pecas Ndah","Blačko","Bildsfell","Mjola","Akranas","Skarpaögon"],
+		"spyNames": ["Eyrr","Omir","Huas","Gunir","Lervar","Olaf","Mosag","Fuwgan","Hugar","Rukgir"],
+		"civilopediaText": [
+			{"text": "Giants are a non-human race considered to be a legend by the inhabitants outside of Laurasia. However, giants do actually exist in Nusa Islands, and never interact with the outside world. The first civilization the giants interacted with was Dwargon, when a group of giants called Förstarna, or the First Giants, crossed the Vänern Sea and settled on the Horn of Laurasia, with whom they periodically clashed. The Second Giants, Andarna, came during the Dissolution of Berenger. The giants, under the leadership of Magnar, formed a mercenary group of giants because of their power and the difficulty of finding plentiful food. Erhab, meaning terrors, is the name given by the Dwarni to the giants because of their terrifying presence."},
+			{"text": "During the Great War of Laurasia, Erhab joined Zorgorath's army to attack Khemul and Dwargon. witnessing Khemul's destruction, the Dwarni immediately readied their golems to counter Erhab's attacks. In the Battle of Kar Doral, the giants almost vanquished Dwargon before Higba decided to ride his rudimentary Orichalcum Golem. Acknowledging his opponent's power, Magnar decided to stop the attacks, and later helped Dwargon's defenses after Almira gave Magnar the Heart of Perpetuity as a condition of the 500 Years of Peace treaty."},
+			{"separator": true},
+			{"text": "Tips to play:"},
+			{"text": "Spam Melee units, they'll get +10% Strength and extra +10% Strength when defending after constructing Sacred Dance. "},
+			{"text": "Be ally with City-State especially Militaristic, their melee unit gifts can be gifted to them back for more Influence. Or, just gift them a recon unit."}
+		]
+	},
+]

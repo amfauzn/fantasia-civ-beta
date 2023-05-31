@@ -1,0 +1,8 @@
+[	
+	// The Witcher
+	{
+		"name": "Mutagen",
+		"resourceType": "Strategic",
+		"uniques": ["Will not be displayed in Civilopedia"]
+	},
+]

@@ -1,0 +1,62 @@
+[
+	// The Wicther from Belias
+	/*{
+		"name": "Witcher School",
+		"replaces": "Castle",
+		"uniqueTo": "The Order of Witchers",
+		"maintenance": 1,
+		"cityStrength": 15,
+		"cityHealth": 50,
+		"hurryCostModifier": 30,
+		"culture": 2,
+		"uniques": ["Destroyed when the city is captured",
+		"Provides [1] [Mutagen]"],
+		"requiredTech": "Quintessence Force",
+		"civilopediaText": [
+			{"text": "The witcher schools are the organizations which train and equip witchers, the itinerant monster slayers. While schools differ in mindset and details of training, most of them teach equally professional hunters."}
+		]
+	},*/
+	// modified
+	{
+		"name": "Witcher School",
+		"replaces": "Centre of Arcane",
+		"uniqueTo": "The Order of Witchers",
+		"production": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 10,
+		"cost": 140,
+		"uniques": ["Research Arcane Magic vs Wizardry", 
+					"Can be built in all cities", 
+					"[+1 Culture, +1 Faith] from [Ley Line] tiles [in this city]", 
+					"Provides [1] [Mutagen]"],
+		"requiredTech": "Arcane Magic",
+		"civilopediaText": [
+			{"text": "The witcher schools are the organizations which train and equip witchers, the itinerant monster slayers. While schools differ in mindset and details of training, most of them teach equally professional hunters."}
+		]
+	},
+	
+	// Holy Order from Tenason
+	{
+		"name": "Sanctum",
+		"uniques": ["All newly-trained [Crusader] units [in this city] receive the [Evangelize Belief] promotion", 
+					"Unbuildable", "Unsellable"]
+	},
+	{
+		"name": "The Foundry",
+		"replaces": "Forge",
+		"uniqueTo": "Holy Order",
+		"faith": 2,
+		"maintenance": 0,
+		"hurryCostModifier": 25,
+		"uniques": ["Research Theology vs Metal Casting", 
+					"Can be built in all cities", 
+					"[+15]% Production when constructing [Land] units [in this city]",
+					"[+1 Production] from [Iron] tiles [in this city]"
+					"All newly-trained [{Military} {Land}] units [in this city] receive the [Unwavering Faith] promotion"],
+		"requiredTech": "Theology",
+		"civilopediaText": [
+            {"text": "A place where all paladins are trained and are born anew, it is also a hotspot for repentance."}
+        ]
+	},
+	
+]

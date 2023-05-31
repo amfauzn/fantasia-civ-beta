@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Cat-Eye",
+		"uniques": ["Can see invisible [Military] units", 
+					"Can see over obstacles"]
+	},
+	{
+		"name": "Blizzard",
+		"uniques": ["[+33]% Strength <with [50]% chance>", 
+					"May withdraw before melee ([25]%)"]
+	},
+	{
+		"name": "Evangelize Belief",
+		"uniques": ["Can [Spread Religion] [2] times", 
+					"Removes other religions when spreading religion",
+					"Religious Unit"]
+	},
+	{
+		"name": "Unwavering Faith",
+		"uniques": ["Damage is ignored when determining unit Strength"]
+	},
+	{
+		"name": "[Crusader] ability",
+		"uniques": ["Defense bonus when embarked"]
+	},
+]
