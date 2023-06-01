@@ -1,22 +1,5 @@
 [
 	// The Wicther from Belias
-	/*{
-		"name": "Witcher School",
-		"replaces": "Castle",
-		"uniqueTo": "The Order of Witchers",
-		"maintenance": 1,
-		"cityStrength": 15,
-		"cityHealth": 50,
-		"hurryCostModifier": 30,
-		"culture": 2,
-		"uniques": ["Destroyed when the city is captured",
-		"Provides [1] [Mutagen]"],
-		"requiredTech": "Quintessence Force",
-		"civilopediaText": [
-			{"text": "The witcher schools are the organizations which train and equip witchers, the itinerant monster slayers. While schools differ in mindset and details of training, most of them teach equally professional hunters."}
-		]
-	},*/
-	// modified
 	{
 		"name": "Witcher School",
 		"replaces": "Centre of Arcane",
@@ -39,12 +22,13 @@
 	{
 		"name": "Sanctum",
 		"uniques": ["All newly-trained [Crusader] units [in this city] receive the [Evangelize Belief] promotion", 
-					"Unbuildable", "Unsellable"]
+					"Unbuildable", "Unsellable", 
+					"Destroyed when the city is captured"]
 	},
 	{
 		"name": "The Foundry",
 		"replaces": "Forge",
-		"uniqueTo": "Holy Order",
+		"uniqueTo": "Sanctum Regalia",
 		"faith": 2,
 		"maintenance": 0,
 		"hurryCostModifier": 25,

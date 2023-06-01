@@ -39,7 +39,7 @@
 	// Holy Order from Tenason
 	// modified
 	{
-		"name": "Holy Order",
+		"name": "Sanctum Regalia",
 		"leaderName": "Mattimeo",
 		"adjective": ["Holiini"],
 		//"startBias": ["Hills"],
@@ -61,7 +61,7 @@
 		
 		"outerColor": [ 74, 64, 58],
 		"innerColor": [255,192,105],
-		"uniqueName": "Empirical Holy Order",
+		"uniqueName": "Holy Ecclesiarchy",
 		"uniqueText": "Can spend Gold to annex or puppet a City-State that has been your ally for 5 turns. \n+1 [Gold] per 4 population when not at war, +1 [Production] instead when at war \n+2 [Gold] from all [Faith] buildings \nNewly-trained Crusader units in capital may Spread Religion 2 times",
 		"uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", 
 					"[+1 Gold] per [4] population [in all cities] <when not at war>", 

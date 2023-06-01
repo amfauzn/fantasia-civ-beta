@@ -1,29 +1,15 @@
 [
 	// The Witcher from Belias
-	/*{
-		"name": "Witcher",
-		"unitType": "Witcher",
-		"uniqueTo": "The Order of Witchers",
-		"movement": 3,
-		"strength": 27,
-		"cost": 160,
-		"requiredTech": "Quintessence Force",
-		"requiredResource": "Mutagen",
-		"attackSound": "metalhit"
-		"promotions": ["Medic"]
-		"uniques": ["[+1] Sight"]
-	},*/
-	//modified
 	{
 		"name": "Witcher",
 		"unitType": "Witcher",
 		"uniqueTo": "The Order of Witchers",
-		"movement": 2,
+		"movement": 3,
 		"strength": 24,
 		"cost": 160,
 		"requiredTech": "Quintessence Force",
 		"requiredResource": "Mutagen",
-		"promotions": ["Cat-Eye","Blizzard"],
+		"promotions": ["Kiss"],
 		"replacementTextForUniques": "No defensive terrain penalty",
 		"uniques": ["[+10]% Strength <when defending> <in [Snow] tiles>", 
 					"[+15]% Strength <when defending> <in [Marsh] tiles>", 
@@ -35,12 +21,11 @@
 	},
 	
 	// Holy Order from Tenason
-	//modified
 	{
 		"name": "Crusader",
 		"unitType": "Mounted",
 		"replaces": "Knight",
-		"uniqueTo": "Holy Order",
+		"uniqueTo": "Sanctum Regalia",
 		"movement": 4,
 		"strength": 22,
 		"cost": 128,
