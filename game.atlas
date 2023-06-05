@@ -1,0 +1,139 @@
+
+game.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/The Foundry
+  rotate: false
+  xy: 328, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Witcher School
+  rotate: false
+  xy: 652, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sanctum Regalia
+  rotate: false
+  xy: 220, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Order of Witchers
+  rotate: false
+  xy: 436, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Mutagen
+  rotate: false
+  xy: 112, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Crusader
+  rotate: false
+  xy: 4, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Witcher
+  rotate: false
+  xy: 544, 8
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Blizzard
+  rotate: false
+  xy: 760, 62
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/De Vries' Extract
+  rotate: false
+  xy: 760, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Evangelize Belief
+  rotate: false
+  xy: 818, 58
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Full Moon
+  rotate: false
+  xy: 876, 58
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Maribor Forest
+  rotate: false
+  xy: 934, 58
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Petri's Philter
+  rotate: false
+  xy: 992, 59
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Swallow
+  rotate: false
+  xy: 1050, 58
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Thunderbolt
+  rotate: false
+  xy: 1108, 58
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Unwavering Faith
+  rotate: false
+  xy: 1166, 58
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Willow
+  rotate: false
+  xy: 1224, 58
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Wolf
+  rotate: false
+  xy: 1282, 58
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Wolverine
+  rotate: false
+  xy: 1340, 58
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

@@ -11,6 +11,7 @@
 		"uniques": ["Research Arcane Magic vs Wizardry", 
 					"Can be built in all cities", 
 					"[+1 Culture, +1 Faith] from [Ley Line] tiles [in this city]", 
+					"[+1 Science] from [Ley Line] tiles [in this city]", 
 					"Provides [1] [Mutagen]"],
 		"requiredTech": "Arcane Magic",
 		"civilopediaText": [
@@ -19,12 +20,6 @@
 	},
 	
 	// Holy Order from Tenason
-	{
-		"name": "Sanctum",
-		"uniques": ["All newly-trained [Crusader] units [in this city] receive the [Evangelize Belief] promotion", 
-					"Unbuildable", "Unsellable", 
-					"Destroyed when the city is captured"]
-	},
 	{
 		"name": "The Foundry",
 		"replaces": "Forge",

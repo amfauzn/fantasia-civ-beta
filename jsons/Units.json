@@ -9,7 +9,7 @@
 		"cost": 160,
 		"requiredTech": "Quintessence Force",
 		"requiredResource": "Mutagen",
-		"promotions": ["Kiss"],
+		//"promotions": ["Kiss"],
 		"replacementTextForUniques": "No defensive terrain penalty",
 		"uniques": ["[+10]% Strength <when defending> <in [Snow] tiles>", 
 					"[+15]% Strength <when defending> <in [Marsh] tiles>", 
@@ -36,7 +36,8 @@
 		"uniques": ["Can move after attacking", 
 					"No defensive terrain bonus", 
 					"[-33]% Strength <vs cities> <when attacking>", 
-					"Founds a new city <on foreign continents>"],
+					"Founds a new city <on foreign continents>", 
+					"Religious Unit"],
 		"promotions": ["[Crusader] ability"],
 		"attackSound": "horse",
 		"religiousStrength": 1000
